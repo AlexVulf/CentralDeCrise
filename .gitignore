@@ -1,0 +1,11 @@
+# Dependências
+node_modules/
+
+# Banco de Dados local (para não sobrescrever o dos outros)
+*.sqlite
+*.sqlite-journal
+
+# Logs e arquivos de sistema
+npm-debug.log*
+.DS_Store
+.env
